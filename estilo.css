@@ -1,0 +1,23 @@
+body{
+    background-color: grey;
+}
+
+.formulario{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.dados{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 10px 0;
+}
+
+.botoes{
+    margin: 10px 0;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
